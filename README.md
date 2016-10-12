@@ -1,3 +1,5 @@
+from http://forums.gentoo.org/viewtopic-p-7965268.html#7965268
+
 Pappy's Preconfigs
 
 A long time ago, I ran a web site with preconfigured kernel configuration files. I sold that web site. Sadly, up to now, I haven't seen much effort on the part of those who purchased the site in updating or bringing the concept back to life. I have had numerous inquiries, and have decided that one good idea can spawn another. As long as I don't use the "S" word, then I should be right as rain. If not, there's no law against sharing configuration setups that work. 
